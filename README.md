@@ -1,6 +1,6 @@
 # Simple QoS Priority Controller
 **Course:** UE24CS252B – Computer Networks  
-**Student:** ANISH A KUNDER | Roll No: 16  
+**Student:** ANISH A KUNDER | SRN : PES1UG24AM343  
 **Project:** SDN Mininet-based Simulation – Simple QoS Priority Controller
 
 ---
